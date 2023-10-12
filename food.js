@@ -51,3 +51,9 @@ function showCategory(categoryIndex, isSearchResult = false) {
     foodContainer.innerHTML = '';
     foodContainer.appendChild(foodCard);
 }
+window.onload = function () {
+    setTimeout(function () {
+        var splashScreen = document.getElementById('splash-screen');
+        splashScreen.style.display = 'none';
+    }, 2000);
+};
