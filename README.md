@@ -1,4 +1,4 @@
-# Food Project
+# Food App
 
 ## Table of Contents
 - [Introduction](#introduction)
