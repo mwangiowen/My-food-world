@@ -18,3 +18,5 @@ function displaySearchResults(data) {
         foodContainer.innerHTML = '<p>Oops! We don\'t have that food.</p>';
     }
 }
+searchButton.addEventListener('click', () => {
+    const query = searchInput.value;
