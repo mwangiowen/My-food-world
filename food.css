@@ -24,3 +24,6 @@ body {
     overflow: hidden;
     transition: transform 0.2s;
 }
+.food-card:hover, .search-food-card:hover {
+    transform: translateY(-5px);
+}
