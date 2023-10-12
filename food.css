@@ -88,8 +88,14 @@ body {
     max-height: 100%;
     display: none; 
 }
-
 #splash-screen h1 {
     font-size: 24px;
     color: rgb(14, 8, 8);
+}
+body {
+    background-image: url("https://media.istockphoto.com/id/1323545403/vector/abstract-blue-light-defocused-gradient-vector-background.jpg?s=2048x2048&w=is&k=20&c=hMnsvfB4Z-OswH0gjR3mw-DUFMnGG9S8VgWjrtd4JMI=");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
 }
