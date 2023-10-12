@@ -83,3 +83,13 @@ body {
     background-size: cover;
     z-index: 9999;
 }
+#splash-screen img {
+    max-width: 100%;
+    max-height: 100%;
+    display: none; 
+}
+
+#splash-screen h1 {
+    font-size: 24px;
+    color: rgb(14, 8, 8);
+}
