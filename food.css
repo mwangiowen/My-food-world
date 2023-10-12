@@ -27,3 +27,23 @@ body {
 .food-card:hover, .search-food-card:hover {
     transform: translateY(-5px);
 }
+.food-card img, .search-food-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.food-card h2, .search-food-card h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 10px 0;
+}
+.food-card p, .search-food-card p {
+    font-size: 1rem;
+    color: #666;
+    margin: 10px 0;
+}
+#search-container {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
