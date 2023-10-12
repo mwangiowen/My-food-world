@@ -110,3 +110,20 @@ body {
         width: 100%; 
     }
 }
+.welcome-text {
+    text-align:center;
+    font-size: 2rem;
+    color: #000000; 
+    margin: 20px 0;
+    padding: 10px;
+    font-weight: bolder;
+}
+.description {
+    font-size: 1.2rem;
+    color: #292626;
+    margin-top: 10px;
+    text-align: center;
+}
+.welcome-text {
+    text-decoration: underline; /* Add an underline to the text */
+}
