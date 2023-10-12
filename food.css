@@ -99,7 +99,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
-
 @media screen and (max-width: 768px) {
     .food-card, .search-food-card {
         width: 100%;
