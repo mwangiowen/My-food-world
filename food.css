@@ -99,3 +99,14 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+@media screen and (max-width: 768px) {
+    .food-card, .search-food-card {
+        width: 100%;
+        margin: 10px 0; 
+        padding: 20px; 
+    }
+#search-input {
+        width: 100%; 
+    }
+}
